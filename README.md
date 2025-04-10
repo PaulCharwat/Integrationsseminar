@@ -1,2 +1,2 @@
 # Integrationsseminar
-Repository fro DHBW lecture Integrationsseminar
+Repository for DHBW lecture Integrationsseminar
